@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Vite / Bun build output
+dist/
+.bun/
+
+.vercel
